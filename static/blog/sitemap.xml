@@ -4,92 +4,92 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/</loc>
-<lastmod>2016-06-26T13:50:03-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2016-06-29T15:11:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/archives.html</loc>
-<lastmod>2016-06-26T13:50:03-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2016-06-29T15:11:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/tags.html</loc>
-<lastmod>2016-06-26T13:50:03-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2016-06-29T15:11:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/categories.html</loc>
-<lastmod>2016-06-26T13:50:03-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2016-06-29T15:11:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/40323204qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
-<lastmod>2016-06-26T13:47:21+08:00</lastmod>
+<loc>./40323204qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
+<lastmod>2016-06-29T15:06:52+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
-<lastmod>2016-06-26T13:41:07+08:00</lastmod>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
+<lastmod>2016-06-29T15:06:52+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/category/ag100.html</loc>
-<lastmod>2016-06-26T13:41:07+08:06</lastmod>
+<loc>./category/ag100.html</loc>
+<lastmod>2016-06-29T15:06:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/category/bg5.html</loc>
-<lastmod>2016-06-26T13:47:21+08:06</lastmod>
+<loc>./category/bg5.html</loc>
+<lastmod>2016-06-29T15:06:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/tag/cdw18.html</loc>
-<lastmod>2016-06-26T13:47:21+08:06</lastmod>
+<loc>./tag/40323204.html</loc>
+<lastmod>2016-06-29T15:06:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/tag/40323204.html</loc>
-<lastmod>2016-06-26T13:47:21+08:06</lastmod>
+<loc>./tag/cdw18.html</loc>
+<lastmod>2016-06-29T15:06:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/tag/40323199.html</loc>
-<lastmod>2016-06-26T13:41:07+08:06</lastmod>
+<loc>./tag/40323199.html</loc>
+<lastmod>2016-06-29T15:06:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/author/40323199.html</loc>
-<lastmod>2016-06-26T13:41:07+08:06</lastmod>
+<loc>./author/40323199.html</loc>
+<lastmod>2016-06-29T15:06:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://hsungchang.github.io/2016springcd_bG5_40323204/static/blog/author/40323204.html</loc>
-<lastmod>2016-06-26T13:47:21+08:06</lastmod>
+<loc>./author/40323204.html</loc>
+<lastmod>2016-06-29T15:06:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
